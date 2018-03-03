@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#f00"
+    android:id="@+id/content"
+    android:elevation="20dp"
+    android:layout_height="match_parent"
+    tools:context="com.devnitish.navigationbaranimation.ContentPage">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:text="Content Page" />
+
+</RelativeLayout>
